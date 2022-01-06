@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diademer
-- 👀 I’m interested in  aprender programação
+- 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning  Mobile Developer
-- 💞️ I’m looking to collaborate on  projetos perifericos 
+- 💞️ I’m looking to collaborate on collaborate in peripheral projects
 - 📫 How to reach me: luis.felipe@agenciamural.org.br
 
 <!---
